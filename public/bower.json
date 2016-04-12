@@ -1,0 +1,18 @@
+{
+  "name": "bower",
+  "authors": [
+    "Nguyen Pham Hoang Diem <1312070@student.hcmus.edu.vn>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
