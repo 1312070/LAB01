@@ -30,11 +30,7 @@ Danh sĂ¡ch chá»©c nÄƒng **thĂªm** Ä‘Ă£ lĂ m nhÆ°ng chÆ°a Ä�
 * [ ] NgÆ°á»i dĂ¹ng cĂ³ thá»ƒ Ä‘Äƒng nháº­p vá»›i Facebook.
 * [ ] NgÆ°á»i dĂ¹ng cĂ³ thá»ƒ block ngÆ°á»i khĂ¡c. Sau khi block, ngÆ°á»i dĂ¹ng sáº½ khĂ´ng nháº­n Ä‘Æ°á»£c tin nháº¯n tá»« ngÆ°á»i bá»‹ block gá»­i ná»¯a.
 * [ ] NgÆ°á»i dĂ¹ng cĂ³ thá»ƒ xĂ³a ngÆ°á»i dĂ¹ng khĂ¡c ra khá»i danh sĂ¡ch báº¡n.
-* [ ] NgÆ°á»i dĂ¹ng cĂ³ thá»ƒ unblock ngÆ°á»i dĂ¹ng khĂ¡c.
-* [ ] Khi ngÆ°á»i dĂ¹ng kĂ©o xuá»‘ng cuá»‘i trang, cĂ¡c tin nháº¯n tiáº¿p theo sáº½ tá»± Ä‘á»™ng hiá»ƒn thá»‹ hoáº·c cĂ³ nĂºt nháº¥n "Xem thĂªm tin nháº¯n" Ä‘á»ƒ náº¡p thĂªm danh sĂ¡ch tin nháº¯n.
-* [ ] NgÆ°á»i dĂ¹ng sáº½ nháº­n Ä‘Æ°á»£c email thĂ´ng bĂ¡o khi há» nháº­n Ä‘Æ°á»£c tin nháº¯n cĂ¹ng vá»›i link Ä‘á»ƒ xem tin nháº¯n.
-* [ ] NgÆ°á»i dĂ¹ng sáº½ nháº­n Ä‘Æ°á»£c email khi ngÆ°á»i nháº­n Ä‘Ă£ Ä‘á»c tin nháº¯n.
-* [ ] NgÆ°á»i dĂ¹ng cĂ³ thá»ƒ gá»­i tin nháº¯n cho ngÆ°á»i dĂ¹ng ngoĂ i há»‡ thá»‘ng. Khi Ä‘Ă³, ngÆ°á»i nháº­n sáº½ nháº­n Ä‘Æ°á»£c 1 email chá»©a link Ä‘Äƒng kĂ½ tĂ i khoáº£n. Sau khi Ä‘Äƒng kĂ½ tĂ i khoáº£n, há» cĂ³ thá»ƒ xem tin nháº¯n Ä‘Ă£ nháº­n.
+
 
 Danh sĂ¡ch chá»©c nÄƒng **phá»¥** Ä‘Ă£ lĂ m nhÆ°ng khĂ´ng Ä‘Æ°á»£c liá»‡t kĂª á»Ÿ trĂªn:
 
